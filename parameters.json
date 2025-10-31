@@ -1,0 +1,25 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [
+    "1",
+    "2",
+    "3"
+  ],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "acf3861d-0261-4dc9-bf46-490e64170ce4",
+  "IDENTITY_SUBSCRIPTION_ID": "5819230f-b4f4-4c73-a36c-f7a5f69c4804",
+  "LOCATION": "swedencentral",
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "e8c66e29-01cf-4b61-932d-24ef93893150",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "alz",
+  "PREFIX": "alz",
+  "RELEASE_VERSION": "v0.23.1",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "SECONDARYLOCATION": "swedencentral",
+  "SECURITY_SUBSCRIPTION_ID": "5819230f-b4f4-4c73-a36c-f7a5f69c4804"
+}
